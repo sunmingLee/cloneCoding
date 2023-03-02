@@ -1,4 +1,4 @@
-const API_KEY = "2a0a7d0704e02a9c0fee348eaaebe3ae";
+const API_KEY;
 
 function onGeoSuccess(position) {
     const lat = position.coords.latitude;
